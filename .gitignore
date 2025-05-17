@@ -71,7 +71,7 @@ Desktop.ini
 $RECYCLE.BIN/
 
 # Project specific
-/backend/instance/
+/backend/instance
 /frontend/.env
 /frontend/dist
 /frontend/logs
